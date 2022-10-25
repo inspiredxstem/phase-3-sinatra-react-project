@@ -4,28 +4,31 @@ class ApplicationController < Sinatra::Base
   # Furniture Page
   get "/furnitures" do
     furniture = Furniture.all
-    furniture.to_json
-  end
-
-  post '/furnitures' do
-    new_cart = Cart.create(
-      name: params[:name],
-      quantity: 1
-    )
-    new_cart.to_json 
+    furniture.to_json(:include => [:category, :image])
   end
 
   # Indiviudal Category Page
   get '/furnitures/:id' do
-    furniture = Furniture.where(:category_id => params[:id])
-    furniture.to_json
+    furniture = if params[:id] != "null"
+      Furniture.where(:category_id => params[:id])
+    else 
+      Furniture.all
+    end
+
+    furniture.to_json(:include => [:category, :image])
   end
 
   # Shopping Cart
   get '/cart' do
     cart = Cart.all
+    cart.to_json(include: { furniture: { include: :image } })
+  end
+
+  get '/cart/quantity' do
+    cart = Cart.count
     cart.to_json
   end
+
   
   post '/cart' do
     cart = Cart.create(
@@ -36,13 +39,13 @@ class ApplicationController < Sinatra::Base
     cart.to_json
   end
 
-  patch '/cart' do
-    cart = Cart.find(params[:id])
+  patch '/cart/:id' do
+    cart = Cart.find_by(furniture_id: params[:id])
     cart.update(quantity: params[:quantity])
     cart.to_json
   end
 
-  delete '/cart' do
+  delete '/cart/:id' do
     cart = Cart.find(params[:id])
     cart.destroy
     cart.to_json

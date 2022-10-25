@@ -41,10 +41,4 @@ Category.create(
 )
 
 
-Cart.create(id: 1, furniture_id:1)
-Cart.create(id: 2, furniture_id:2)
-Cart.create(id: 3, furniture_id:3)
-
-
-
 puts "✅ Done seeding!"

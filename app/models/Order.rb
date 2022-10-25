@@ -1,3 +1,3 @@
 class Order < ActiveRecord::Base
-    has_many :items, through: :carts
+    has_many :furnitures, through: :carts
 end
