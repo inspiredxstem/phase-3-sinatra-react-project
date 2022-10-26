@@ -1,5 +1,5 @@
 class Cart < ActiveRecord::Base
-    has_and_belongs_to_many :furnitures
+    belongs_to :furniture
 
     def self.get_furnitures
         all.collect do |x|
@@ -8,6 +8,6 @@ class Cart < ActiveRecord::Base
     end
 
     def self.total
-        self.sum(:total_cost)
+        self.find_by(Furniture)
     end
 end
