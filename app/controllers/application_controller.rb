@@ -21,7 +21,7 @@ class ApplicationController < Sinatra::Base
   # Shopping Cart
   get '/cart' do
     cart = Cart.all
-    cart.to_json(include: { furniture: { include: :image } })
+    cart.to_json
   end
 
   get '/cart/quantity' do
@@ -29,6 +29,10 @@ class ApplicationController < Sinatra::Base
     cart.to_json
   end
 
+  get '/cart/info' do
+    cart = Cart.get_furnitures
+    cart.to_json(:include => [:image])
+  end
   
   post '/cart' do
     cart = Cart.create(
