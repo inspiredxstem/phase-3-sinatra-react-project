@@ -29,13 +29,13 @@ class ApplicationController < Sinatra::Base
       quantity: 1,
       furniture_id: params[:furniture_id]
     )
-    cart.to_json
+    cart.to_json(include: {furniture: {include: :image}})
   end
 
   patch '/cart/:id' do
     cart = Cart.find_by(furniture_id: params[:id])
     cart.update(quantity: params[:quantity])
-    cart.to_json
+    cart.to_json(include: {furniture: {include: :image}})
   end
 
   delete '/cart/:id' do
