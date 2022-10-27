@@ -9,7 +9,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_bb-chair_corpus-studio_2-scaled.webp",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_bb-chair_corpus-studio_sq-scaled.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_bb-chair_corpus-studio_4-scaled.webp",
-  "Price": 500
+  "Price": 500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/8sQhd7mM\/BBChair.png"
  },
  {
   "Name": "Tacta Chair",
@@ -21,7 +22,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_tacta-chair_john-pawson_7.jpeg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_tacta-chair_john-pawson_10.jpeg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_tacta-chair_john-pawson_2.jpeg",
-  "Price": 800
+  "Price": 800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/d1WFTdvN\/Tacta.png"
  },
  {
   "Name": "Iso-lounge Chair",
@@ -33,7 +35,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/10\/leibal_iso-lounge_jasper-morrison_2.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/10\/leibal_iso-lounge_jasper-morrison_3.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/10\/leibal_iso-lounge_jasper-morrison_9.jpg",
-  "Price": 1360
+  "Price": 1360,
+  "Thumbnail": "https:\/\/i.postimg.cc\/dt32dKR5\/Iso-Lounge.png"
  },
  {
   "Name": "SAND Chair",
@@ -45,7 +48,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_sand_koichi-futatsumata-studio_1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_sand_koichi-futatsumata-studio_2.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_sand_koichi-futatsumata-studio_6.jpg",
-  "Price": 1200
+  "Price": 1200,
+  "Thumbnail": "https:\/\/i.postimg.cc\/jqFWpnNh\/Sand.png"
  },
  {
   "Name": "Armchair",
@@ -57,7 +61,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_armchair_anthony-guex_00001.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_armchair_anthony-guex_00005.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_armchair_anthony-guex_00004.jpg",
-  "Price": 800
+  "Price": 800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/x8zsSJfF\/Arm.png"
  },
  {
   "Name": "TRIM Chair",
@@ -69,7 +74,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/08\/leibal_trim_lucas-faber_00004.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/08\/leibal_trim_lucas-faber_00009.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/08\/leibal_trim_lucas-faber_00008.jpg",
-  "Price": 1000
+  "Price": 1000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/m2N70N3F\/Trim.png"
  },
  {
   "Name": "Filo Chair",
@@ -77,11 +83,12 @@
   "Material": "Fabric cord, Solid beech wood",
   "Dimensions": "17.71\"W X 20.66\"D X 31.69\"H",
   "Origin": "Paris",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/07\/filo-1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/07\/leibal_filo-chair_bouroullec_8.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/07\/leibal_filo-chair_bouroullec_10.jpg",
-  "Price": 1200
+  "Price": 1200,
+  "Thumbnail": "https:\/\/i.postimg.cc\/xCwFFyv4\/Filo.png"
  },
  {
   "Name": "Crop Chair",
@@ -89,11 +96,12 @@
   "Material": "Steel",
   "Dimensions": "24.5\"W X 21.75\"D X 32.75\"H",
   "Origin": "London",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_crop_layer_3.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_crop_layer_10.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_crop_layer_5.jpg",
-  "Price": 800
+  "Price": 800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/jdf04Cb5\/Crop.png"
  },
  {
   "Name": "ARCH Chair",
@@ -101,11 +109,12 @@
   "Material": "Hard Wood",
   "Dimensions": "20.71\"W X 18.42\"D X 27.55\"H",
   "Origin": "South Korea",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_arch_finder_00011.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_arch_finder_00007.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_arch_finder_00003.jpg",
-  "Price": 900
+  "Price": 900,
+  "Thumbnail": "https:\/\/i.postimg.cc\/bvhmfNWm\/Arch.png"
  },
  {
   "Name": "Shades of Michelangelo",
@@ -113,11 +122,12 @@
   "Material": "Solid Wood, Aluminum",
   "Dimensions": "18.625\"W X 18.875\"D X 34\"H",
   "Origin": "Tokyo",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_shade-michelangelo_toshiki-omatsu_00002.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_shade-michelangelo_toshiki-omatsu_00014.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/04\/leibal_shade-michelangelo_toshiki-omatsu_00007.jpg",
-  "Price": 1500
+  "Price": 1500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/jjdYx6k1\/Shades-Of-Michelangelo.png"
  },
  {
   "Name": "Horn Chair",
@@ -125,11 +135,12 @@
   "Material": "Lacquer, Acrylic paint, Tulipwood",
   "Dimensions": "29.52\"W x 16.53\"D x 18.11\"H",
   "Origin": "Belgium",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/unnamed-1-scaled.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_horn-chair_destroyers-builders_00001.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/unnamed-scaled.jpg",
-  "Price": 1800
+  "Price": 1800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/zvwW8RBx\/Horn.png"
  },
  {
   "Name": "C2210 Chair",
@@ -137,11 +148,12 @@
   "Material": "Steel",
   "Dimensions": "18.625\"W X 18.875\"D X 34\"H",
   "Origin": "Slovenia",
-  "Category": "Chair",
+  "Category": "Chair ",
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/01\/leibal_c2210-arhitektura_5.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/01\/leibal_c2210-arhitektura_8.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/01\/leibal_c2210-arhitektura_7.jpg",
-  "Price": 1000
+  "Price": 1000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/MZhq8F23\/C2210.png"
  },
  {
   "Name": "Henge Table",
@@ -153,7 +165,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/10\/leibal_henge_fractall_1-scaled.jpeg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/10\/leibal_henge_fractall_3-scaled.jpeg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/10\/leibal_henge_fractall_4.jpeg",
-  "Price": 5000
+  "Price": 5000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/DyHg61GX\/Henge.png"
  },
  {
   "Name": "Petra Table",
@@ -165,7 +178,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/06\/leibal_petra_peca_s.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/06\/leibal_petra_peca_5.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/06\/leibal_petra_peca_3.jpg",
-  "Price": 9900
+  "Price": 9900,
+  "Thumbnail": "https:\/\/i.postimg.cc\/fbnQG3G3\/Petra.png"
  },
  {
   "Name": "Posit Table",
@@ -177,7 +191,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_posit_snickeriet_sq.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_posit_snickeriet_3.jpeg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/07\/leibal_posit_snickeriet_4.jpeg",
-  "Price": 5000
+  "Price": 5000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/gJhDfjP0\/Posit.png"
  },
  {
   "Name": "Pedestal.08 Table",
@@ -189,7 +204,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_pedestal-08_luka-yasukawa_8.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_pedestal-08_luka-yasukawa_7.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/09\/leibal_pedestal-08_luka-yasukawa_3.jpeg",
-  "Price": 1900
+  "Price": 1900,
+  "Thumbnail": "https:\/\/i.postimg.cc\/t4X9JnrL\/Pedestal.png"
  },
  {
   "Name": "Blur Table",
@@ -201,7 +217,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_blur-table_hayo-gebauer_1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_blur-table_hayo-gebauer_4.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_blur-table_hayo-gebauer_3.jpg",
-  "Price": 3600
+  "Price": 3600,
+  "Thumbnail": "https:\/\/i.postimg.cc\/28g4fm2b\/Blur.png"
  },
  {
   "Name": "Solida Table",
@@ -213,7 +230,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/03\/leibal_solida_rain_000015.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/03\/leibal_solida_rain_00001.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/03\/leibal_solida_rain_00003.jpg",
-  "Price": 3800
+  "Price": 3800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/fLG8T2qy\/Solida.png"
  },
  {
   "Name": "Aero",
@@ -225,7 +243,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/02\/leibal_aero_hector-esrawe_5.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/02\/leibal_aero_hector-esrawe_sq.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/02\/leibal_aero_hector-esrawe_10.jpg",
-  "Price": 8000
+  "Price": 8000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/159pc1FP\/Aero.png"
  },
  {
   "Name": "Loop Table",
@@ -237,7 +256,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/01\/leibal_loop-table_nicholas-bijan-pourfard_9.jpeg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/01\/leibal_loop-table_nicholas-bijan-pourfard_5.jpeg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/01\/leibal_loop-table_nicholas-bijan-pourfard_1.jpeg",
-  "Price": 5000
+  "Price": 5000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/htRR3MSS\/Loop.png"
  },
  {
   "Name": "ODD Table",
@@ -249,7 +269,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/12\/leibal_odd-table_lucas-faber_sq.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/12\/leibal_odd-table_lucas-faber_00005.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/12\/leibal_odd-table_lucas-faber_00004.jpg",
-  "Price": 800
+  "Price": 800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/Vk41rn8m\/Odd.png"
  },
  {
   "Name": "Taarof Table",
@@ -261,7 +282,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_taarof-table_kouros-maghsoudi_00006.jpeg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_taarof-table_kouros-maghsoudi_00004.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_taarof-table_kouros-maghsoudi_00005.jpg",
-  "Price": 13000
+  "Price": 13000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/Xvzr5Tbj\/Taarof.png"
  },
  {
   "Name": "T-Table",
@@ -273,7 +295,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_t-table_edits_sq-scaled.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_t-table_edits_2-scaled.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/09\/leibal_t-table_edits_3-scaled.jpg",
-  "Price": 11000
+  "Price": 11000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/65MtTCww\/TTable.png"
  },
  {
   "Name": "Gaze Table",
@@ -285,7 +308,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_gaze-table_maria-tyakina_8.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_gaze-table_maria-tyakina_4.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_gaze-table_maria-tyakina_5.jpg",
-  "Price": 15000
+  "Price": 15000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/Qtf0cNMB\/Gaze.png"
  },
  {
   "Name": "LC Sofa",
@@ -297,7 +321,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/08\/leibal_lc-sofa_tells-studio_9.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/08\/leibal_lc-sofa_tells-studio_7.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/08\/leibal_lc-sofa_tells-studio_5.jpg",
-  "Price": 12000
+  "Price": 12000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/vHstD6hP\/LC.png"
  },
  {
   "Name": "Kyoto Lounge Sofa",
@@ -309,7 +334,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_kyoto-lounge-chair_house-of-leon_6.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_kyoto-lounge-chair_house-of-leon_8.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2022\/05\/leibal_kyoto-lounge-chair_house-of-leon_7.jpg",
-  "Price": 2300
+  "Price": 2300,
+  "Thumbnail": "https:\/\/i.postimg.cc\/J7cB6Y3q\/Kyoto-Lounge.png"
  },
  {
   "Name": "Roll Top Sofa",
@@ -321,7 +347,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/12\/leibal_roll-top-sofa_sedilia_1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/12\/leibal_roll-top-sofa_sedilia_5.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/12\/leibal_roll-top-sofa_sedilia_6.webp",
-  "Price": 10500
+  "Price": 10500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/02yrtkyk\/RollTop.png"
  },
  {
   "Name": "Aku Sofa",
@@ -333,7 +360,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/11\/leibal_aku_kaschkasch_1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/11\/leibal_aku_kaschkasch_4.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/11\/leibal_aku_kaschkasch_3.jpg",
-  "Price": 8000
+  "Price": 8000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/9MBFpK3w\/Aku.png"
  },
  {
   "Name": "Assemble Sofa",
@@ -345,7 +373,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_assemble-sofa_destroyers-builders_9.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_assemble-sofa_destroyers-builders_37.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/05\/leibal_assemble-sofa_destroyers-builders_34.jpg",
-  "Price": 18000
+  "Price": 18000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/m2yJr4YH\/Assemble.png"
  },
  {
   "Name": "V.MC.01 Sofa",
@@ -357,7 +386,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_vmc01_mia-cullin_5.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_vmc01_mia-cullin_8.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2021\/03\/leibal_vmc01_mia-cullin_9.jpg",
-  "Price": 6500
+  "Price": 6500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/rscg6dYY\/VMC01.png"
  },
  {
   "Name": "Kite Sofa",
@@ -369,7 +399,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/06\/leibal_kite-sofa_jonas-wagell_2.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/06\/leibal_kite-sofa_jonas-wagell_3.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/06\/leibal_kite-sofa_jonas-wagell_1.jpg",
-  "Price": 4500
+  "Price": 4500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/nhmqY42b\/Kite.png"
  },
  {
   "Name": "Sennen Sofa",
@@ -381,7 +412,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/02\/leibal_sennen_sedilia_sq.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/02\/leibal_sennen_sedilia_11.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/02\/leibal_sennen_sedilia_10.jpg",
-  "Price": 8000
+  "Price": 8000,
+  "Thumbnail": "https:\/\/i.postimg.cc\/x8bdDRc9\/Sennen.png"
  },
  {
   "Name": "Jesso Sofa",
@@ -393,7 +425,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/01\/leibal_jesso-sofa_greg-papove_1.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/01\/leibal_jesso-sofa_greg-papove_2.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2020\/01\/leibal_jesso-sofa_greg-papove_3.jpg",
-  "Price": 6800
+  "Price": 6800,
+  "Thumbnail": "https:\/\/i.postimg.cc\/2871z005\/Jesso.png"
  },
  {
   "Name": "Bureau Sofa",
@@ -405,7 +438,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/12\/Bureau-sofa-by-Cameron-Foggo-front.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/12\/Bureau-sofa-by-Cameron-Foggo-angle2.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/12\/Bureau-sofa-by-Cameron-Foggo-back.jpg",
-  "Price": 9200
+  "Price": 9200,
+  "Thumbnail": "https:\/\/i.postimg.cc\/mrvL39mq\/Bureau.png"
  },
  {
   "Name": "Kinuta N-S01 Sofa",
@@ -417,7 +451,8 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/KARIMOKU-CASE-STUDY_Kinuta-N-S01-04.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/KARIMOKU-CASE-STUDY_Kinuta-N-S01-03.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/KARIMOKU-CASE-STUDY_Kinuta-N-S01-05.jpg",
-  "Price": 4500
+  "Price": 4500,
+  "Thumbnail": "https:\/\/i.postimg.cc\/9FQDQGKt\/Kinuta.png"
  },
  {
   "Name": "Press Sofa",
@@ -429,6 +464,7 @@
   "Image1": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/leibal_press-sofa_studio-truly-truly_9sq.jpg",
   "Image2": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/leibal_press-sofa_studio-truly-truly_8.jpg",
   "Image3": "https:\/\/leibal.wpenginepowered.com\/wp-content\/uploads\/2019\/06\/leibal_press-sofa_studio-truly-truly_7.jpg",
-  "Price": 3600
+  "Price": 3600,
+  "Thumbnail": "https:\/\/i.postimg.cc\/RVJzdhHx\/Press.png"
  }
 ]

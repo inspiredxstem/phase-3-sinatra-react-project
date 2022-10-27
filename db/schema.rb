@@ -39,6 +39,7 @@ ActiveRecord::Schema.define(version: 2022_10_24_181344) do
     t.string "angle1"
     t.string "angle2"
     t.string "angle3"
+    t.string "thumbnail"
   end
 
   create_table "orders", force: :cascade do |t|

@@ -23,7 +23,8 @@ data_hash.each.with_index(1) do |furniture, i|
         id: i,
         angle1: furniture['Image1'],
         angle2: furniture['Image2'],
-        angle3: furniture['Image3']
+        angle3: furniture['Image3'],
+        thumbnail: furniture['Thumbnail']
     )
 end
 

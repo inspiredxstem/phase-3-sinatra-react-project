@@ -8,6 +8,6 @@ class Cart < ActiveRecord::Base
     end
 
     def self.total
-        self.find_by(Furniture)
+        self.sum(:total_cost)
     end
 end

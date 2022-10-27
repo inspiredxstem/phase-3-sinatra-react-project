@@ -18,16 +18,18 @@ class ApplicationController < Sinatra::Base
     cart.to_json
   end
 
-  # get '/cart/sum' do
-  #   cart.
-  # end
+  get '/cart/sum' do
+    cart = Cart.total
+    cart.to_json
+  end
 
   
   post '/cart' do
     cart = Cart.create(
       name: params[:name],
       quantity: 1,
-      furniture_id: params[:furniture_id]
+      furniture_id: params[:furniture_id],
+      total_cost: params[:total_cost]
     )
     cart.to_json(include: {furniture: {include: :image}})
   end
